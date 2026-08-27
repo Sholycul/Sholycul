@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently a Student @ALXSE program<br>I'm working on favourite movie repository as my portfolio project 
-
+I'm a Python developer who likes turning raw, messy data into things that actually work — from scraping 30,000+ real estate listings with anti-bot handling, to building a content-based movie recommender from scratch using TF-IDF and cosine similarity. <br>Computer Science graduate (University of Benin), currently completing NYSC and building toward AI engineering. <br>I learn by shipping, not just studying — three self-published programming books and a growing set of live, deployed projects to show for it.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sholy.cul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sholy_cul/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/adeleke-iji-2b868a281) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sholy_Cul) 
